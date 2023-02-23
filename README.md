@@ -187,6 +187,7 @@ Hint: [How to load CSS with RequireJS?](https://github.com/Studio-42/elFinder/wi
  * [XOOPS](https://github.com/nao-pon/xelfinder)
  * [Yii](http://www.yiiframework.com/extension/elfinder/)
  * [Zenphoto](http://www.zenphoto.org/news/elfinder/)
+ * [ClicShopping](https://github.com/ClicShopping/ClicShopping_V3)
 
 Support
 -------
